@@ -7,4 +7,4 @@
 
  cd tree/main
 
-python2 bd-6digit
+python2 Selim-6-digit.py
